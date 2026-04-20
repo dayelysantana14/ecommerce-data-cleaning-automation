@@ -1,0 +1,14 @@
+# Datos
+data/raw/
+data/clean/
+
+# Archivos grandes
+*.csv
+*.xlsx
+
+# Python
+__pycache__/
+*.pyc
+
+# Entorno
+.env
