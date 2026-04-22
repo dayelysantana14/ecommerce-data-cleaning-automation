@@ -97,6 +97,9 @@ python main.py
 Los reportes generados se almacenan automáticamente en OneDrive.
 
 Posteriormente, Power Automate detecta los archivos y los envía por correo electrónico.
+
+![Flow](flow%20power%20automate.PNG)
+
 ---
 🌎 Escalabilidad
 
